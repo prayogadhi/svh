@@ -1,0 +1,52 @@
+/* .action-dropdown {
+  background: #fff;
+  padding: 0;
+}
+.action-dropdown > a {
+  opacity: 0.5;
+  -webkit-transition: opacity ease 0.3s;
+  transition: opacity ease 0.3s;
+  padding-left: 17px;
+  padding-right: 37px;
+  min-width: 70px;
+}
+.action-dropdown > a > i {
+  margin-right: 5px;
+}
+.action-dropdown > a:hover {
+  opacity: 1;
+}
+.action-dropdown > .dropdown-item {
+  width: 0;
+} */
+
+table {
+  width: 100% !important;
+}
+
+.custom-text {
+  font-size: 10.5px !important;
+  letter-spacing: 0.06em !important;
+  text-transform: uppercase !important;
+  font-weight: 500 !important;
+}
+
+.BalanceAmount {
+  width: 100%;
+  text-align: center;
+  border: none;
+  align-content: center;
+  font-size: 23px;
+  line-height: 32px;
+}
+
+/* .form-group-default.form-group-default-select2 > label {
+  z-index: 9999 !important;
+} */
+/* .custom-file-input ~ .custom-file-label::after {
+  content: "Button Text";
+} */
+
+/* .form-group-default.form-group-default-selectFx .cs-wrapper .cs-placeholder {
+  height: 56px;
+} */
